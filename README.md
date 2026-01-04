@@ -1,9 +1,6 @@
 # 🚀 30 Days, 30 JavaScript Projects
 
-The projects are taken from this video:
-<a href="https://youtu.be/WoNmm4YS8e4" target="_blank">
-  <img src="https://img.youtube.com/vi/WoNmm4YS8e4/0.jpg" width="200" />
-</a>
+The projects are taken from <a href="https://youtu.be/WoNmm4YS8e4" target="_blank">this video</a>.
 
 The goal is to atleast make one project a day so that the challenge can be done in 30 days, but my focus will be to try to complete more than one a day if it seems easy, specially the beginner level projects. also this is a funny cat image:
 <p align="center">
