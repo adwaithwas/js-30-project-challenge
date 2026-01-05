@@ -1,0 +1,26 @@
+button {
+    margin: 10px;
+    width: 200px;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+#pink {
+    background-color: pink;
+}
+
+#beige {
+    background-color: beige;
+}
+
+#cadetblue {
+    background-color: cadetblue;
+}
+
+button:hover{
+    background-color: aliceblue;
+    filter: brightness(1.05);
+    cursor: pointer;
+}
