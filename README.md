@@ -13,7 +13,7 @@ The goal is to atleast make one project a day so that the challenge can be done 
 |----|--------|
 | 01 | Quiz Game (CLI) |
 | 02 | Random Number Guesser |
-| 03 | Rock Paper Scissors | 
+| 03 | <a href="https://adwaithwas.github.io/js-30-project-challenge/day-04-bg-color-changer">Rock Paper Scissors</a> | 
 | 04 | Bg Color changer |
 
 ## 🧠 Goals
