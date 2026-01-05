@@ -1,4 +1,4 @@
-button {
+button{
     margin: 10px;
     width: 200px;
     height: 100px;
@@ -23,4 +23,9 @@ button:hover{
     background-color: aliceblue;
     filter: brightness(1.05);
     cursor: pointer;
+}
+
+#ans {
+    margin: 10px;
+    font-size: 20px;
 }
