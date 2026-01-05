@@ -12,9 +12,9 @@ The goal is to atleast make one project a day so that the challenge can be done 
 | Day | Project |
 |----|--------|
 | 01 | Quiz Game (CLI) |
-| 02 | Todo App |
-| 03 | Calculator | 
-| 04 | Number Guessing Game |
+| 02 | Random Number Guesser |
+| 03 | Rock Paper Scissors | 
+| 04 | Bg Color changer |
 
 ## 🧠 Goals
 - Improve JavaScript fundamentals
