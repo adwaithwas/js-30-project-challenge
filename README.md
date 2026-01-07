@@ -16,6 +16,7 @@ The goal is to at least make one project a day so that the challenge can be done
 | 03 | Rock Paper Scissors | 
 | 04 | <a href="https://adwaithwas.github.io/js-30-project-challenge/day-04-bg-color-changer">Bg Color changer</a> |
 | 05 | <a href="https://adwaithwas.github.io/js-30-project-challenge/day-05-palindrome-checker">Palindrome Checker</a> |
+| 06 | <a href="https://adwaithwas.github.io/js-30-project-challenge/day-06-stopwatch>Stopwatch</a> |
 
 ## 🧠 Goals
 - Improve JavaScript fundamentals
