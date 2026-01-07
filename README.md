@@ -17,6 +17,7 @@ The goal is to at least make one project a day so that the challenge can be done
 | 04 | <a href="https://adwaithwas.github.io/js-30-project-challenge/day-04-bg-color-changer" target="_blank">Bg Color changer</a> |
 | 05 | <a href="https://adwaithwas.github.io/js-30-project-challenge/day-05-palindrome-checker" target="_blank">Palindrome Checker</a> |
 | 06 | <a href="https://adwaithwas.github.io/js-30-project-challenge/day-06-stopwatch" target="_blank">Stopwatch</a> |
+| 07 | <a href="https://adwaithwas.github.io/js-30-project-challenge/day-07-to-do-app" target="_blank">To Do List</a> |
 
 ## 🧠 Goals
 - Improve JavaScript fundamentals
