@@ -4,9 +4,32 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>to to app</title>
+    <style>
+        body{
+            background-color: beige;
+        }
+        
+        button {
+            background-color: aquamarine;
+            height: 20px;
+            border-radius: 5px;
+        }
+
+        input {
+            background-color: cadetblue;
+            color: aliceblue;
+            width: 200px;
+            border-radius: 5px;
+        }
+
+        input::placeholder {
+            color: rgb(240, 248, 255, 0.75);
+        }
+
+    </style>
 </head>
 <body>
-    <h1>to-do app</h1>
+    <h1>To-do app</h1>
     <input type="text" placeholder="enter your task" id="input">
     <button id="create">add task</button>
     <ul id="taskList"></ul>

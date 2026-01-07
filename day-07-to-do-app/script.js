@@ -3,6 +3,7 @@ const create = document.getElementById("create");
 const list = document.getElementById("taskList")
 
 create.addEventListener("click", (e) => {
+    if (input.value == "") return;
     const li = document.createElement("li");
     li.textContent = input.value;
 
