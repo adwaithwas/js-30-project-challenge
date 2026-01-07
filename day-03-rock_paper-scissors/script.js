@@ -8,7 +8,7 @@ while (tries < 3) {
     console.log("#_______________________________________________________________#")
     let choices = ["rock", "paper", "scissors"];
     let idx = Math.round(Math.random() * 2);
-    // console.log(`comp choose ${choices[idx]}`);
+    // console.log(`comp choose ${choices[idx]}`); //just for debug, i never cheat :)
 
     console.log("what do you choose?");
     let ans = prompt();
@@ -16,7 +16,7 @@ while (tries < 3) {
     if (ans == choices[idx]) {
         console.log("draw!!");
         continue;
-        console.log("#_______________________________________________________________#") //just for debug, i never cheat :)
+        console.log("#_______________________________________________________________#")
     }
 
     if (
